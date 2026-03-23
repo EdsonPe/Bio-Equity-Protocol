@@ -1,0 +1,7 @@
+{
+  "name": "Bio-Equity Protocol",
+  "description": "A platform to forge, manage, and explore a marketplace of unique digital artifacts derived from biometric data, creating new economies and investment opportunities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
